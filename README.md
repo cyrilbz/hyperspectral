@@ -1,4 +1,4 @@
-## Dependancies
+## Dependencies
 You need to have the spectral library installed (pip install spectral)
 
 ## list of contents and description
